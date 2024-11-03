@@ -9,4 +9,4 @@
 5. Using the round logic, it will shows who won or it's tie or not and keeps the scoring log.
 6. After 5 rounds, using game logic, it will show who won the game analysing the scores of each.
 
-You can access the live version of this project here: 
+You can access the live version of this project here: https://parikhitm.github.io/Rock-Paper-Scissors/
