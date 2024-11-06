@@ -2,11 +2,11 @@
 
 ## Game Workflow
 
-1. In every game there will be 5 rounds.
-2. In every rounds, There will be prompt means a popup box.
-3. The popup box will ask the user to give a input from (Rock, Paper, Scissors).
-4. Computer will generate a random choice from (Rock, Paper, Scissors).
-5. Using the round logic, it will shows who won or it's tie or not and keeps the scoring log.
-6. After 5 rounds, using game logic, it will show who won the game analysing the scores of each.
+1. Player will select an option from (Rock, paper, scissors).
+2. Computer will randomly select an option from (Rock, paper, scissors).
+3. Live results will be shown who beats whom.
+4. After every round the winner will get one point.
+5. Once a player hits 5 points, the winner of the game will be decalred.
+6. After that everything will be reset and the game will restart automatically.
 
 You can access the live version of this project here: https://parikhitm.github.io/Rock-Paper-Scissors/
